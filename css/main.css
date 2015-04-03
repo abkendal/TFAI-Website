@@ -7,26 +7,45 @@ li {
 	list-style-type: none;
 }
 a {
-	color: #111;
+	  color: color: #111;
+  text-decoration: none;
 }
 a:hover {
 	text-decoration: none;
-	color:#595858;
+	color:#ee9400;
 }
 .container {
-	padding-left: 10%;
-	padding-right:10%;
+	padding-left: 5%;
+	padding-right:5%;
 }
 .content {
 	padding-left:5%;
+}
+.footer-info {
+	float:left;
+}
+.footer-logo {
+	width:30px;
+	float:right;
 }
 .thumbnail{
 	margin-left: auto;
 	margin-right: auto;
 	width: 100%;
 }
+#contact {
+}
+#fb {
 
-
+}
+#footer {
+  width: 100%;
+  background: url(http://www.turnerfleischer.com/turnerfleischer/App_Theme/images/bkg_footer.gif) right center no-repeat #e3e3e3;
+  display: block;
+  font-size: 9px;
+}
+#linkedin {
+}
 #main-image {
 	margin-left: auto;
 	margin-right: auto;
@@ -37,8 +56,13 @@ a:hover {
 	border: none;
 	background: none;
 }
+#stratus {
 
+}
 
+#turnerfleischer {
+
+}
 
 
 
