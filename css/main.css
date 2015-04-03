@@ -32,7 +32,11 @@ a:hover {
 	margin-right: auto;
 	width: 100%;
 }
-
+#nav {
+	width: 190px;
+	border: none;
+	background: none;
+}
 
 
 
